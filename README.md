@@ -32,3 +32,7 @@ Improved decision-making by providing real-time sales monitoring instead of stat
 Delivered actionable insights that contributed to an estimated 15% improvement in sales efficiency.
 
 Screenshots:
+Key Insights:         (https://github.com/madhusriramula/Atliq-Sales-Analysis-Dashboard/blob/main/Key%20Insights.png)
+Profit Analysis:      (https://github.com/madhusriramula/Atliq-Sales-Analysis-Dashboard/blob/main/Profit%20Analysis.png)
+Performance Insights: (https://github.com/madhusriramula/Atliq-Sales-Analysis-Dashboard/blob/main/Performance%20Insights.png)
+
